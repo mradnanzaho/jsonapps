@@ -6,17 +6,17 @@
     "tabs": [
       {
         "title": "Home",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://bit.ly/2DB8QlP",
           "usa"
         ]
       },
       {
         "title": "SHOP BY CATEGORY",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://bit.ly/2DB8QlP",
           "usa_new"
         ]
       }
